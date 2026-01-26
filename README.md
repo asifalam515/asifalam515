@@ -81,9 +81,9 @@ A full-stack project for memberships, plans, and features.
 
 ## 📊 GitHub Stats (Optional)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?asifalam515=asifalam515&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifalam515&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?asifalam515=asifalam515&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalam515&layout=compact&hide_border=true)
 
 ---
 
