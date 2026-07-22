@@ -80,13 +80,13 @@ I am a passionate **Full-Stack Software Developer** specializing in building cle
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=asifalam515&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=asifalam515&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=asifalam515&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=asifalam515&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asifalam515&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asifalam515&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=python,c++" alt="Top Languages" />
 </div>
 
 ---
