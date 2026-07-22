@@ -59,8 +59,8 @@ I am a passionate **Full-Stack Software Developer** specializing in building cle
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| **Readers Hub** | A comprehensive backend platform for managing books, users, and discussions. | `Node.js`, `Express`, `TypeScript`, `Prisma`, `PostgreSQL` | 🔹 Secure REST API with authentication<br/>🔹 Strongly-typed database schema<br/>🔹 Structured, scalable MVC architecture |
-| **Time Management App** | A productivity application inspired by GTD, Atomic Habits, and the Pomodoro technique. *(In Progress)* | `React`, `Node.js`, `Express`, `MongoDB` (MERN) | 🔹 Focus sessions & rich analytics<br/>🔹 Advanced task & habit management<br/>🔹 Full JWT-based authentication system |
+| **Hire Flow** | A complete hiring platform for recruiters to post jobs and seekers to apply. Features ATS, LiveKit video interviews, and real-time chat. | `React`, `Node.js`, `LiveKit`, `WebSockets` | 🔹 Built-in Applicant Tracking System (ATS)<br/>🔹 Live video interviews with screen sharing<br/>🔹 Real-time messaging & chat |
+| **Skill Bridge** | An interactive tutoring platform connecting students with teachers. Features subject search, hourly rate setting, payments, reviews, and online classes. | `React`, `Node.js`, `Express`, `MongoDB` | 🔹 Advanced tutor search & student reviews<br/>🔹 Secure payment integration<br/>🔹 Real-time online classes |
 | **Fitness / Gym Management** | A full-stack web application designed for gym memberships and activity tracking. | `React`, `Node.js`, `Express`, `MongoDB`, `Tailwind` | 🔹 Dynamic pricing plans & subscriptions<br/>🔹 Modern, responsive UI<br/>🔹 Robust MongoDB data modeling |
 
 ---
